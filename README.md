@@ -38,7 +38,7 @@ To install and run the Medical Document Summarizer, follow these steps:
 
 ```bash
 git clone https://github.com/Amg9794/doc_summarizer.git
-cd recsum
+cd doc_sum
 ```
 2. **Set up a conda environment**
 ```bash
